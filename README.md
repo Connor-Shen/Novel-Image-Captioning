@@ -8,3 +8,9 @@ In the project, I first build a basic CNN- RNN model and find it has poor perfor
 to lack of paired image. Then, inspired by the NOC model, I modify the original model and
 conduct some evaluations(F1 score, CIDEr-D, METEOR, SPICE) and visualization. 
 
+Here are some sample images.
+![img](https://github.com/Connor-Shen/Novel-Image-Captioning/blob/main/sample_image/samples_suitcase.png)
+![img](https://github.com/Connor-Shen/Novel-Image-Captioning/blob/main/sample_image/samples_bottle.png)
+![img](https://github.com/Connor-Shen/Novel-Image-Captioning/blob/main/sample_image/samples_zebra.png)
+![img](https://github.com/Connor-Shen/Novel-Image-Captioning/blob/main/sample_image/samples_pizza.png)
+
