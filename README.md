@@ -9,6 +9,7 @@ to lack of paired image. Then, inspired by the NOC model, I modify the original 
 conduct some evaluations(F1 score, CIDEr-D, METEOR, SPICE) and visualization. 
 
 Here are some sample images.
+
 ![img](https://github.com/Connor-Shen/Novel-Image-Captioning/blob/main/sample_image/samples_suitcase.png)
 ![img](https://github.com/Connor-Shen/Novel-Image-Captioning/blob/main/sample_image/samples_bottle.png)
 ![img](https://github.com/Connor-Shen/Novel-Image-Captioning/blob/main/sample_image/samples_zebra.png)
